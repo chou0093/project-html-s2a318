@@ -371,7 +371,7 @@ PHOTO
   margin: 2px;
 }
 
-.photo-img img{
+.photo-img img {
   border-radius: 2.5%;
 }
 
@@ -385,15 +385,14 @@ PHOTO
   }
 }
 
-
 /*--------------------------------
 CONTACT
 ---------------------------------*/
-.contact-section{
+.contact-section {
   width: 100%;
 }
 
-.contact{
+.contact {
   display: flex;
   flex-direction: column;
   max-width: 500px;
@@ -401,7 +400,7 @@ CONTACT
   padding-left: 120px;
 }
 
-.form-title{
+.form-title {
   margin-bottom: 2px;
   font-size: 1.2rem;
 }
@@ -413,10 +412,10 @@ CONTACT
   background-color: red;
   color: #fff;
   border-radius: 5px;
-  border: 1px solid #CCC;
+  border: 1px solid #ccc;
 }
 
-.btn{
+.btn {
   align-items: center;
   width: 80%;
   padding: 10px 50px;
@@ -430,11 +429,12 @@ CONTACT
   cursor: pointer;
 }
 
-textarea,input{
+textarea,
+input {
   width: 78.5%;
 }
 
-textarea{
+textarea {
   height: 85px;
 }
 
@@ -447,7 +447,6 @@ textarea{
   cursor: pointer;
   text-align: center;
   background-color: #4c4c4c;
-
 }
 
 .page-top .material-icons-outlined {
